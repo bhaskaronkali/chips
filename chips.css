@@ -1,0 +1,23 @@
+/* Tag chips */
+.closebtn {
+  padding-left: 10px;
+  color: #fff;
+  font-weight: bold;
+  float: right;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.closebtn:hover {
+  color: #000;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0 12px;
+  height: 18px;
+  font-size: 14px;
+  line-height: 16px;
+  border-radius: 10px;
+  background-color: #17a2b8;
+}
